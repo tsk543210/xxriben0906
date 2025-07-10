@@ -16,4 +16,4 @@
 
 最后，站点应注重合规性和安全性。使用HTTPS加密协议可以保护用户的隐私信息，避免恶意软件的攻击，确保平台的长期健康运营。
 
-<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0906 ）</span>
+<span style="display:none;">[Canonical link]( )</span>
